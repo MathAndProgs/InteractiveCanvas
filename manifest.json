@@ -1,0 +1,10 @@
+{
+  "id": "interactive-canvas",
+  "name": "Interactive Canvas",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Ask AI to modify your Obsidian canvas via OpenAI Chat Completions.",
+  "author": "Codex",
+  "authorUrl": "https://openai.com",
+  "isDesktopOnly": false
+}
