@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.obsidian/
+.DS_Store
+.vscode/
+.idea/
+*.log
