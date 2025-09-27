@@ -1,0 +1,11 @@
+{
+  "id": "interactive-canvas",
+  "name": "Interactive Canvas",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Enhance Obsidian Canvas with AI-powered editing",
+  "author": "OpenAI Codex",
+  "authorUrl": "https://openai.com",
+  "isDesktopOnly": false,
+  "js": "dist/main.js"
+}
